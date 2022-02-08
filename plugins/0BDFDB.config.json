@@ -1,0 +1,20 @@
+{
+	"changeLogs": {
+		"CompleteTimestamps": "1.6.0",
+		"CreationDate": "1.4.6",
+		"LastMessageDate": "1.2.8",
+		"SpotifyControls": "1.2.4"
+	},
+	"choices": {
+		"toastPosition": "right"
+	},
+	"general": {
+		"showToasts": true,
+		"showSupportBadges": true,
+		"useChromium": false
+	},
+	"hashes": {
+		"0BDFDB.data.json": "6161bf8d9b4106e6ca412d1e0481a882156f2aa5",
+		"0BDFDB.raw.css": "a1036e10077b9457f3903795204f7dbd91d7646d"
+	}
+}
